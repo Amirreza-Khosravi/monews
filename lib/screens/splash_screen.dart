@@ -1,9 +1,7 @@
 import 'dart:async';
 import 'dart:ui';
-
 import 'package:flutter/material.dart';
-
-import 'bottomNavigation.dart';
+import 'package:monews/main.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({Key? key}) : super(key: key);
